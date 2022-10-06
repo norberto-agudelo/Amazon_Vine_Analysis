@@ -38,6 +38,7 @@ There are 37840 non-vine reviews and 20612 of them are 5 stars
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 •	Percentage 5star_vine reviews = 38.24% (65 / 170)
+
 •	Percentage 5star_non-Vine reviews = 54.47% (20612 / 37840)
 
 ## Summary
